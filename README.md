@@ -8,15 +8,19 @@ A lightweight Chrome extension that seamlessly integrates a download button into
 * **Custom Save Location:** Includes a dedicated options page allowing you to specify a custom subfolder within your browser's default Downloads directory.
 * **Real-time Visual Feedback:** The button provides immediate visual cues—turning orange with a spinner while loading, and green with a checkmark upon a successful download.
 
-## Installation
 
-You can install this extension locally in Google Chrome:
+## Download & Install
 
-1. Download or clone this repository to your local machine.
+1. **[Click here to download x-video-dl.zip](x-video-dl.zip?raw=true)**
 2. Open Google Chrome and navigate to `chrome://extensions/`.
-3. Toggle **Developer mode** on in the top right corner of the page.
-4. Click the **Load unpacked** button in the top left.
-5. Select the folder containing the extension files (the folder containing the `manifest.json` file).
+3. Turn on **Developer mode** using the toggle in the top right corner.
+4. Simply drag and drop the downloaded `.zip` file anywhere onto that page to install it instantly.
+
+
+## Screenshot
+
+![X Video Downloader Action Bar](action_bar.png)
+*The download button seamlessly integrates into the native X action bar.*
 
 ## Usage
 
