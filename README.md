@@ -11,7 +11,7 @@ A lightweight Chrome extension that seamlessly integrates a download button into
 
 ## Download & Install
 
-1. **[Click here to download x-video-dl.zip](x-video-dl.zip?raw=true)**
+1. **[Click here to download x-video-dl.zip](x-video-dl.zip)**
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Turn on **Developer mode** using the toggle in the top right corner.
 4. Simply drag and drop the downloaded `.zip` file anywhere onto that page to install it instantly.
